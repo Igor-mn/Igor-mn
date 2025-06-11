@@ -12,5 +12,7 @@ Sou estudante do 1º período de Ciência da Computação na CESAR School, obcec
 
 ## Contato
 E-mail: igormnunes87@gmail.com
+
 Telefone: (81) 9 9900-0952
+
 LinkedIn: [linkedin](https://www.linkedin.com/in/igor-moura-91b511306/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav5)
