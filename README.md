@@ -6,8 +6,11 @@ Sou estudante do 1º período de Ciência da Computação na CESAR School, obcec
 
 ## 🛠️ Ferramentas que utilizo
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+
 ![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+
 ![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 
 ## Contato
