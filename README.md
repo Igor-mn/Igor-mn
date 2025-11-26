@@ -2,7 +2,7 @@
 
 ## 🤔 Quem sou
 
-Sou estudante do 1º período de Ciência da Computação na CESAR School, obcecado por tecnologia e suas aplicações no mundo real. Tenho especial interesse por Desenvolvimento de Software e Cibersegurança, e estou constantemente buscando aprender novas linguagens e ferramentas que me ajudem a construir soluções práticas para diversos problemas.
+Sou estudante do 2º período de Ciência da Computação na CESAR School, obcecado por tecnologia e suas aplicações no mundo real. Tenho especial interesse por Desenvolvimento de Software e Cibersegurança, e estou constantemente buscando aprender novas linguagens e ferramentas que me ajudem a construir soluções práticas para diversos problemas.
 
 ## 🛠️ Ferramentas que utilizo
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
